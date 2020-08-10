@@ -1,8 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Everton Resende 👋
 
-# Everton Resende 
+
 
 ---
+### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/everton4292)](https://github.com/everton4292)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-rodrigues-64a14b3a/)](https://www.linkedin.com/in/everton-rodrigues-64a14b3a/)
