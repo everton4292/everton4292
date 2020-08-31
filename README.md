@@ -12,9 +12,9 @@
 
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Depedency Injection using Hilt 
+- 🌱 I’m currently learning Salesforce and Apex
 - 👯 I’m looking to collaborate on Mobile projects for Android Native and Flutter
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Advanced Apex
 - 💬 Ask me about Android Development
 - 📫 How to reach me: https://t.me/everton42
 
