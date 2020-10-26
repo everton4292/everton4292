@@ -1,4 +1,4 @@
-## Hi there, I'm Everton Resende 👋
+## Everton Resende 👋
 
 
 
