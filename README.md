@@ -12,9 +12,9 @@
 
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Dependency Injection(Hilt) 
-- 👯 I’m looking to collaborate on Mobile projects for Android Native and Flutter
-- 🤔 I’m looking for help with Flutter
+- 🌱 I’m currently learning Coroutines
+- 👯 I’m looking to collaborate on Mobile projects for Android Native
+- 🤔 I’m looking for help with Jetpack Compose
 - 💬 Ask me about Android Development
 - 📫 How to reach me: https://t.me/everton42
 
