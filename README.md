@@ -18,7 +18,7 @@
 - 💬 Ask me about Android Development
 - 📫 How to reach me: https://t.me/everton42
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=everton4292&show_icons=true&hide_border=true"/>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=everton4292&count_private=true&show_icons&include_all_commits&langs_count"/>
 
 
 
