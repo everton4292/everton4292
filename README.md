@@ -12,8 +12,8 @@
 
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Coroutines
-- 👯 I’m looking to collaborate on Mobile projects for Android Native
+- 🌱 I’m currently learning Spring boot
+- 👯 I’m looking to collaborate on Mobile projects for Android Native and Spring boot
 - 🤔 I’m looking for help with Jetpack Compose
 - 💬 Ask me about Android Development
 - 📫 How to reach me: https://t.me/everton42
