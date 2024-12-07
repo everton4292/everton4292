@@ -16,7 +16,6 @@
 - 👯 I’m looking to collaborate on Mobile projects for Android Native and Spring boot
 - 🤔 I’m looking for help with Jetpack Compose
 - 💬 Ask me about Android Development
-- 📫 How to reach me: https://t.me/everton42
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=everton4292&count_private=true&show_icons&include_all_commits&langs_count"/>
 
